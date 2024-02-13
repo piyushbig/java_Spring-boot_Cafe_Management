@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="cam.cafe.dto.Status"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="com.cafe.entity.Address"/>
+    <fullyQualifiedTypeName name="jakarta.persistence.Entity"/>
+    <fullyQualifiedTypeName name="jakarta.persistence.GenerationType"/>
+    <fullyQualifiedTypeName name="jakarta.persistence.GeneratedValue"/>
+    <fullyQualifiedTypeName name="ch.qos.logback.core.status.Status"/>
+    <fullyQualifiedTypeName name="jakarta.persistence.Table"/>
+    <fullyQualifiedTypeName name="jakarta.persistence.CascadeType"/>
+    <fullyQualifiedTypeName name="jakarta.persistence.Id"/>
+    <fullyQualifiedTypeName name="com.cafe.Exception.CustomerServiceException"/>
+    <fullyQualifiedTypeName name="com.cafe.dto.LoginStatus"/>
+    <fullyQualifiedTypeName name="com.cafe.dto.RegistrationAdminStatus"/>
+    <fullyQualifiedTypeName name="com.cafe.entity.Admin"/>
+    <fullyQualifiedTypeName name="com.cafe.dto.LoginDetails"/>
+    <fullyQualifiedTypeName name="com.cafe.dto.Status"/>
+    <fullyQualifiedTypeName name="com.cafe.dto.CafeLoginStatus"/>
+    <fullyQualifiedTypeName name="com.cafe.entity.Order"/>
+    <fullyQualifiedTypeName name="com.cafe.dto.ProductDTO"/>
+    <fullyQualifiedTypeName name="java.util.Optional"/>
+    <fullyQualifiedTypeName name="com.cafe.Exception.ProductServiceException"/>
+    <fullyQualifiedTypeName name="com.fasterxml.jackson.annotation.JsonIgnore"/>
+    <fullyQualifiedTypeName name="com.cafe.entity.Category"/>
+    <fullyQualifiedTypeName name="com.cafe.entity.OrderItem"/>
+    <fullyQualifiedTypeName name="com.cafe.repository.OrderItemRepository"/>
+    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.CrossOrigin"/>
+    <fullyQualifiedTypeName name="jakarta.transaction.Transactional"/>
+    <fullyQualifiedTypeName name="com.cafe.repository.ProductRepository"/>
+    <fullyQualifiedTypeName name="com.cafe.Exception.ResourceNotFoundException"/>
+    <fullyQualifiedTypeName name="com.cafe.dto.AdminLoginStatus"/>
+</qualifiedTypeNameHistroy>
